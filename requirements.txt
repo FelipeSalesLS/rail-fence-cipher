@@ -1,0 +1,5 @@
+# Rail Fence Cipher - Dependências
+# Este projeto usa apenas bibliotecas padrão do Python
+# Não há dependências externas necessárias!
+
+# Python >= 3.6
